@@ -16,6 +16,6 @@ As an experienced Full-stack Developer with a passion for innovation, I possess 
 ![Top Langs](https://github-readme-stats-git-master-fskydev.vercel.app/api/top-langs/?username=fskydev&langs_count=8&layout=compact&hide=liquid,shell,html,vba,hack&size_weight=0.65&count_weight=0.35)
 
 ### Hobby Projects
-[![Readme Card](https://github-readme-stats-git-master-fskydev.vercel.app/api/pin/?username=fskydev&repo=mern-auth-chat)](https://github.com/fskydev/mern-auth-chat)
+
 
 [![Readme Card](https://github-readme-stats-git-master-fskydev.vercel.app/api/pin/?username=fskydev&repo=wasm-tetris)](https://github.com/fskydev/wasm-tetris)
