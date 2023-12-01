@@ -17,6 +17,3 @@ As an experienced Full-stack Developer with a passion for innovation, I possess 
 
 ### Hobby Projects
 
-[![Readme Card](https://github-readme-stats-git-master-fskydev.vercel.app/api/pin/?username=fskydev&repo=mern-auth-chat)](https://github.com/fskydev/mern-auth-chat)
-
-[![Readme Card](https://github-readme-stats-git-master-fskydev.vercel.app/api/pin/?username=fskydev&repo=wasm-tetris)](https://github.com/fskydev/wasm-tetris)
